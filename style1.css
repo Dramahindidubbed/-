@@ -1,6 +1,6 @@
 button{
-	height: 70px;
-	width: 90px;
+	height: 100px;
+	width: 80px;
 	border-radius: 30px;
 	border: none;
 	ouline: none;
@@ -12,3 +12,4 @@ button{
 	cursor: pointer;
 
 }
+
