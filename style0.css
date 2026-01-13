@@ -1,16 +1,17 @@
 button{
-	height: 50px;
-	width: 100px;
+	height: 40px;
+	width: 80px;
 	border-radius: 50px;
 	border: none;
 	ouline: none;
 	background: blue;
 	color: black;
-	font-size: 10px;
+	font-size: 5px;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	cursor: pointer;
 
 }
+
 
 
