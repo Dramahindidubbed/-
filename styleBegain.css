@@ -1,5 +1,11 @@
 body{
-	background: url('background.jpg');
+	background: url(background.jpg);
+}
+*{
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	
 }
 header>a{
 	margin: 20px 10px;
@@ -30,4 +36,18 @@ button{
 button:hover{
 	background: rgba(0,0,0,0.5);
 	color: white;
+}
+h3>a{
+	color: white;
+	font-family: sans-serif;
+	font-weight: 600;
+	text-decoration: none;
+}
+h3>a:hover{
+	text-decoration: underline;
+	font-size: italic;
+}
+h4{
+	font-weight: 600;
+	font-family: sans-serif;
 }
